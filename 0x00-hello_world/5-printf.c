@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
-* main: Prints to output.
-* print the message
+* main - Prints to output.
 * Return: 0 if successful.
 */
 int main(void)
